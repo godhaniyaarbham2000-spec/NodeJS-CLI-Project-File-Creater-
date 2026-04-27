@@ -25,13 +25,13 @@ This project allows users to create files by entering a filename and content thr
 ---
 
 ## 📂 Project Structure
-
+```
 File Creator/
 │── filecreater.js
 │── package.json
 │── package-lock.json
 │── .gitignore
-
+```
 ---
 
 ## ⚙️ Installation
