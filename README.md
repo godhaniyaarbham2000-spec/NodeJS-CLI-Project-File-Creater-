@@ -41,7 +41,6 @@ Clone the repository:
 git clone https://github.com/your-username/node-file-creator.git
 cd node-file-creator
 ```
-cd node-writing-file
 
 Install dependencies (if any):
 ```
