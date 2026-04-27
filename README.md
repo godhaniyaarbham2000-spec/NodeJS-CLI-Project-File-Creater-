@@ -71,9 +71,10 @@ Process:
 ---
 
 ## 💻 Example
-
+```
 Enter your filename: test  
-Enter the Content: hi arbham mer  
+Enter the Content: hi arbham mer
+```
 File "test.txt" created successfully  
 
 ---
