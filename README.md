@@ -37,22 +37,22 @@ File Creator/
 ## ⚙️ Installation
 
 Clone the repository:
-
+```
 git clone https://github.com/your-username/node-file-creator.git
 cd node-file-creator
-
+```
 Install dependencies:
-
+```
 npm install
-
+```
 ---
 
 ## ▶️ Usage
 
 Run the project:
-
+```
 node filecreater.js
-
+```
 ---
 
 ## 💻 Writing File
