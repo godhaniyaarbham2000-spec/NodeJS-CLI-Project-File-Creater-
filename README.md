@@ -46,7 +46,7 @@ npm install
 
 ---
 
-▶️ Usage
+ ##▶️ Usage
 
 Run the project:
 
