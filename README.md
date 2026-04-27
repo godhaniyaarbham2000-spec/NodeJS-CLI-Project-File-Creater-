@@ -47,26 +47,45 @@ cd node-file-creator
 Install dependencies (if any):
 
 npm install
+
+---
+
 ▶️ Usage
 
 Run the project:
 
 node filecreater.js
+
+---
+
 💻 Example
 
 Enter your filename: test
 Enter the Content: hi arbham mer
 File "test.txt" created successfully
 
+---
+
+
 ⚠️ Notes
 File will always be created with .txt extension
 Ensure valid filename input
+
+---
+
 📌 Future Improvements
 Add delete file feature
 Add rename file feature
 Add folder creation support
 Add interactive CLI menu system
+
+---
+
+
 👨‍💻 Author
 
 Arbham Godhaniya
 MERN Stack Developer
+
+---
+
