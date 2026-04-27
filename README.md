@@ -37,8 +37,8 @@ File Creator/
 
 Clone the repository:
 
-bash
-git clone https://github.com/your-username/node-file-creator.git
+```bash
+git clone https://github.com/your-username/node-file-creator.git```
 
 Move to project folder:
 
