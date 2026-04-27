@@ -18,18 +18,17 @@ This tool allows users to create files dynamically by entering a filename and co
 ## 🛠️ Tech Stack
 
 - Node.js
-- JavaScript (ES Modules)
-- File System (fs module)
+- JavaScript (ES Modules / File System module)
 
 ---
 
 ## 📂 Project Structure
-
 File Creator/
 │── filecreater.js
 │── package.json
 │── package-lock.json
 │── .gitignore
+
 
 ---
 
@@ -40,3 +39,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/node-file-creator.git
 cd node-file-creator
+
+Run the project:
+
+node filecreater.js
+
+💻 Usage Example
+Enter your filename: test
+Enter the Content: hi arbham mer
+File "test.txt" created successfully
