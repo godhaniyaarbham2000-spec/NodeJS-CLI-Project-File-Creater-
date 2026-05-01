@@ -26,7 +26,7 @@ This project allows users to create files by entering a filename and content thr
 
 ## 📂 Project Structure
 ```
-File Creator/
+NodeJS-CLI-Project-File-Creater/
 │── filecreater.js
 │── package.json
 │── package-lock.json
@@ -38,8 +38,11 @@ File Creator/
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/node-file-creator.git
-cd node-file-creator
+git clone https://github.com/godhaniyaarbham2000-spec/NodeJS-CLI-Project-File-Creater.git
+```
+Go to project folder
+```
+cd NodeJS-CLI-Project-File-Creater
 ```
 
 Install dependencies (if any):
