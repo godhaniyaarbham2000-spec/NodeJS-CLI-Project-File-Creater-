@@ -2,7 +2,7 @@
 # 📝 File Creator (Node.js CLI Tool)
 
 A simple command-line based File Creator built using Node.js.  
-This project allows users to create files by entering a filename and content through terminal input.
+This project allows users to create files by entering a filename and content through terminal input. 
 
 ---
 
